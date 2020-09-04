@@ -1,0 +1,10 @@
+export const ADD_TODO = 'ADD TODO';
+export const DELETE_TODO = 'DELETE TODO';
+
+export const GET_TODOS_REQUEST = 'GET TODOS REQUEST';
+export const GET_TODOS_SUCCESS = 'GET TODOS SUCCESS';
+export const GET_TODOS_ERROR = 'GET TODOS ERROR';
+
+export const GET_TODO_REQUEST = 'GET TODO REQUEST';
+export const GET_TODO_SUCCESS = 'GET TODO SUCCESS';
+
